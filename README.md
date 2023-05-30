@@ -1,0 +1,2 @@
+# Philosophers-problems
+PHİLOSOPHERS
